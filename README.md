@@ -1,1 +1,4 @@
-# CLASE10
+# HOLA MUNDO
+mi primer repositorio 
+
+i love 🐶🏍️
